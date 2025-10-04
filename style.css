@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+main {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+}
+
+.container {
+    margin: auto;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+button {
+    margin: 30px 5px 0px 5px;
+    width: 100px;
+    height: 25px;
+}
